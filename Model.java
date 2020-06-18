@@ -40,11 +40,13 @@ private static final int MAX_LENGTH_COURSE_NAME_FOR_GARMIN = 10;
 
         final String[][] directory =  {
 
-                {"Right","Right ->"},
-                {"Left","<- Left"},
-                {"U-turn","U Turn <>"},
-                {"Straight","Straight ^"},
-
+                {"Left slight","LekkoLewa"},
+                {"Right slight","LekkoPrawa"},
+                {"Right","W prawo ->"},
+                {"Left","<- W lewo"},
+                {"U-turn","Zawroc <>"},
+                {"Straight","Prosto /^\\"},
+                {"Continue","Prosto /^\\"},
 
                 {"Ostro w prawo","OstroPrawa"},
                 {"Ostro w lewo","Ostro lewa"},
