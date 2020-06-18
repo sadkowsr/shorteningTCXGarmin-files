@@ -11,3 +11,6 @@ javac *.java -encoding utf8
 # Run
 java MainWindow
 
+# Download runnable version:
+https://drive.google.com/file/d/1BGsDfJvjBIrzg2z66VGbqzjpYptXnl5J/view?usp=sharing
+
